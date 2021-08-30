@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ajay Dhage
 #### I m a Full Stack Developer
-![I m a Full Stack Developer](https://source.unsplash.com/user/erondu/1600x900)
+![I m a Full Stack Developer](https://source.unsplash.com/1600x900/?computer,code)
 
 I m a professional full stack developer, I mostly work on the frontend part using Html, Css, Javascript, React 
 
