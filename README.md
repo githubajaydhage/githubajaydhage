@@ -1,14 +1,108 @@
 ### Hi there 👋, My name is Ajay Dhage
-#### I m a Full Stack Developer
-![I m a Full Stack Developer](https://source.unsplash.com/daily?code/)
+#### I m a Devops Engineer 
 
-I m a professional full stack developer, I mostly work on the frontend part using Html, Css, Javascript, React 
+🚀 DevOps Portfolio
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Welcome to my DevOps portfolio! 🌟 This repository showcases my skills, projects, and expertise in DevOps, Cloud Infrastructure, CI/CD pipelines, and more. 🛠️
 
-- 🔭 I’m currently working on React, Angular projects  
-- 🌱 I’m currently learning Full Stack Development 
-- 💬 Ask me about Ui/Ux, Frontend, React, Angular  
+
+---
+
+👨‍💻 About Me
+
+I am an experienced DevOps Engineer passionate about automating workflows, building scalable systems, and ensuring efficient delivery pipelines. With a strong background in both development and operations, I specialize in:
+
+🏗️ Infrastructure as Code (IaC)
+
+☁️ Cloud Services (AWS, Azure, GCP)
+
+🔄 Continuous Integration/Continuous Deployment (CI/CD)
+
+📦 Containerization & Orchestration (Docker, Kubernetes)
+
+🔒 Security Best Practices
+
+📊 Monitoring & Logging
+
+
+
+---
+
+🛠️ Skills
+
+⚙️ DevOps Tools
+
+CI/CD: Jenkins, GitHub Actions, GitLab CI, CircleCI
+
+Configuration Management: Ansible, Chef, Puppet
+
+Containers & Orchestration: Docker, Kubernetes, Helm
+
+Version Control: Git, Bitbucket
+
+Cloud Providers: AWS, Azure, GCP
+
+
+📜 Programming & Scripting
+
+Bash
+
+Python
+
+YAML
+
+Terraform
+
+
+
+---
+
+🌟 Key Projects
+
+🚢 Automated CI/CD Pipelines
+
+Description: Built and maintained pipelines for seamless deployment across development, staging, and production environments.
+
+Tech Stack: Jenkins, GitHub Actions, Kubernetes, Helm
+
+
+🌐 Scalable Cloud Infrastructure
+
+Description: Designed and deployed multi-region architectures with auto-scaling, load balancing, and failover mechanisms.
+
+Tech Stack: AWS (EC2, RDS, S3, Route 53), Terraform
+
+
+📈 Real-time Monitoring and Alerting System
+
+Description: Implemented end-to-end monitoring for applications using Prometheus, Grafana, and ELK Stack.
+
+Outcome: Reduced downtime by 30% through proactive alerting.
+
+
+
+---
+
+📊 Stats
+
+🚀 5+ Years of Experience
+
+🌎 15+ Completed Projects
+
+🖥️ 300+ CI/CD Pipelines Deployed
+
+
+
+---
+
+💡 Philosophy
+
+> "Automate everything that can be automated."
+
+
+
+I believe in making systems robust, scalable, and efficient while fostering a culture of collaboration between development and operations teams.
+
 - 📫 How to reach me: Connect me on LinkedIn, github, email, phone  
 
 
